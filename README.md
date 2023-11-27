@@ -11,7 +11,7 @@ Este é um simples programa em JavaScript para calcular o somatório de todos os
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/RebeccaReis/Testetecnico/main/Indice
+   git clone https://github.com/RebeccaReis/Testetecnico/blob/main/Indice
    ```
 
 2. **Navegue até o Diretório:**
