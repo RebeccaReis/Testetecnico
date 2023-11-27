@@ -7,3 +7,5 @@ for(let i = 1;i < numero;i++){
 }
 returno somatorio;
 }
+let resultado = somatorioDivisiveis(10);
+console.log(resultado);
